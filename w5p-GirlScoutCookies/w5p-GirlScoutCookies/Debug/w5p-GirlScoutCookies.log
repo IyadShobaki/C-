@@ -1,0 +1,3 @@
+﻿  GirlScoutCookies.cpp
+d:\c++\w5p-girlscoutcookies\w5p-girlscoutcookies\girlscoutcookies.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  w5p-GirlScoutCookies.vcxproj -> D:\C++\w5p-GirlScoutCookies\Debug\w5p-GirlScoutCookies.exe

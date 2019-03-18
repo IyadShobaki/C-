@@ -1,0 +1,3 @@
+﻿  ErrorHandling.cpp
+d:\c++\week8-practice\week8-practice\errorhandling.cpp(8): warning C4715: 'division': not all control paths return a value
+  week8-Practice.vcxproj -> D:\C++\week8-Practice\Debug\week8-Practice.exe

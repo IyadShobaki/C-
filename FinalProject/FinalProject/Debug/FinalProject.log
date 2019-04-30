@@ -1,0 +1,9 @@
+﻿  StudentDatabase.cpp
+  StudentDatabase1.cpp
+d:\c++\finalproject\finalproject\studentdatabase1.cpp(113): warning C4018: '<': signed/unsigned mismatch
+d:\c++\finalproject\finalproject\studentdatabase1.cpp(127): warning C4018: '<': signed/unsigned mismatch
+d:\c++\finalproject\finalproject\studentdatabase1.cpp(154): warning C4018: '<': signed/unsigned mismatch
+d:\c++\finalproject\finalproject\studentdatabase1.cpp(211): warning C4018: '<': signed/unsigned mismatch
+d:\c++\finalproject\finalproject\studentdatabase1.cpp(392): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FinalProject.vcxproj -> D:\C++\FinalProject\Debug\FinalProject.exe

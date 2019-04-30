@@ -1,0 +1,3 @@
+﻿  Banking.cpp
+d:\c++\w14-groupwork-banking\w14-groupwork-banking\banking.cpp(21): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  w14-GroupWork-Banking.vcxproj -> D:\C++\w14-GroupWork-Banking\Debug\w14-GroupWork-Banking.exe

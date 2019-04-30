@@ -1,0 +1,4 @@
+﻿  CarCompareLab.cpp
+d:\c++\10-week13lab\10-week13lab\carcomparelab.cpp(201): warning C4551: function call missing argument list
+d:\c++\10-week13lab\10-week13lab\carcomparelab.cpp(47): warning C4101: 'budget': unreferenced local variable
+  10-week13Lab.vcxproj -> D:\C++\10-week13Lab\Debug\10-week13Lab.exe
